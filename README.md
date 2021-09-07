@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @JohnRamberger
-Hi, my I'm @JohnRamberger and I'm a first-year student at the Georgia Institute of Technology studying Computer Science. 
+Hi, I'm @JohnRamberger and I'm a first-year student at the Georgia Institute of Technology studying Computer Science. 
 # 👀 I’m interested in ...
 I'm interested in just about every field related to CS, but I've only dabbled in a few parts such as web development and CLIs among some others. I believe web development is the future, so I try to make everything using HTML/JS/PHP.
 # 🌱 I’m currently learning ...
